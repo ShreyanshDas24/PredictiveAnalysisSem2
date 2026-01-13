@@ -23,4 +23,4 @@ This dataset contains information related to the used car market, where each rec
 - **seats**: Seating capacity of the car  
 
 ## Source
-The dataset is Kaggle
+The dataset is taken from Kaggle
