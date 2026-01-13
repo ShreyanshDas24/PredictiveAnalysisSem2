@@ -1,8 +1,6 @@
 # PredictiveAnalysisSem2
 Codes and Dataset for MDTS4214
 
-# Car Price Prediction Dataset
-
 ## Field of Study
 Automobile Industry Analytics
 
@@ -25,4 +23,4 @@ This dataset contains information related to the used car market, where each rec
 - **seats**: Seating capacity of the car  
 
 ## Source
-The dataset is
+The dataset is Kaggle
